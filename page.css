@@ -1,0 +1,14 @@
+body {
+    background: url(https://assets.hongkiat.com/uploads/minimalist-dekstop-wallpapers/4k/original/15.jpg);
+    background-size: cover;
+    /* background-position: center; */
+    font-family: lato;
+    color: white;
+}
+html {
+    height: 100%;
+}
+
+h2{
+    color: white;
+}
